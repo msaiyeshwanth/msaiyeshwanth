@@ -44,8 +44,8 @@ English, Telugu (Native), Hindi
 
 ## 💼 Experience & Education
 
-- **Data Scientist @ Johns Manville**  
-  13 May 2024 - Present (1 Year 4 Months)
+- **AI Data Scientist @ Johns Manville**  
+  13 May 2024 - Present
 
 - **AI Solution Developer Capstone Project @ ASANTe**  
   01 January 2025 - 10 May 2025 (5 Months)
