@@ -1,7 +1,7 @@
 # Sai Yeshwanth Mekala
 
 **AI Data Scientist**  
-_Experienced in Python, R, Statistics, Machine Learning, Neural Networks, AI Engineering and Data Visualization _
+_Experienced in Python, R, Statistics, Machine Learning, Neural Networks, AI Engineering and Data Visualization_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sai-yeshwanth-mekala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://msaiyeshwanth.github.io/portfolio/)
