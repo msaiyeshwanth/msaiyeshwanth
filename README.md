@@ -10,32 +10,20 @@ _Experienced in Python, R, Statistics, Machine Learning, Neural Networks, AI Eng
 
 ## 👋 About Me
 
-I am a Data Science and AI enthusiast passionate about transforming data into actionable insights. My expertise spans statistical analysis, predictive modeling, machine learning, neural networks, and AI engineering, with experience in deploying scalable solutions in production environments.
+I design and deploy end-to-end AI solutions, from data pipelines to production ML models. Skilled in Python, R, cloud platforms (AWS/GCP/Azure), and deep learning, I turn complex data into business impact.
 
 ---
 
 ## 🛠️ Skills
 
-**Data Science & AI:**  
-Python, R, SQL, Machine Learning, Neural Networks & Deep Learning (TensorFlow, Keras, PyTorch), LLMs
+**AI & ML:**  
+Python, R, TensorFlow, PyTorch, LLMs
 
-**Cloud Platforms & Services:**  
-AWS, GCP, Azure
+**Cloud & Data Engineering:**  
+AWS, GCP, Azure, Spark, Airflow, Docker, Kubernetes, CloudWatch, Prometheus, Grafana
 
-**Data Engineering & Orchestration:**  
-Airflow, Spark, PySpark, Kubernetes
-
-**Data Warehousing & Databases:**  
-Oracle, PostgreSQL, MySQL, Kusto, MongoDB, Historians
-
-**DevOps & Containerization:**  
-Docker, Jenkins, GitHub Actions
-
-**Monitoring & Logging:**  
-CloudWatch, Prometheus, Grafana
-
-**Data Visualization:**  
-Tableau, Power BI, Matplotlib, Seaborn
+**Databases & Visualization:**  
+Oracle, PostgreSQL, MySQL, Kusto, MongoDB, Historians, Tableau, Power BI
 
 **Languages:**  
 English, Telugu (Native), Hindi
