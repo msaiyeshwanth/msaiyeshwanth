@@ -10,7 +10,7 @@ _Machine Learning | AI Engineering | Data Visualization | Predictive Modeling_
 
 ## 👋 About Me
 
-I am a Data Science and AI enthusiast passionate about transforming data into actionable insights. My expertise spans statistical analysis, predictive modeling, machine learning, neural networks, deep learning, and AI engineering. I enjoy solving complex business problems by leveraging advanced analytics and visualization techniques.
+I am a Data Science and AI enthusiast passionate about transforming data into actionable insights. My expertise spans statistical analysis, predictive modeling, machine learning, neural networks, and AI engineering, with experience in deploying scalable solutions in production environments.
 
 ---
 
@@ -44,9 +44,20 @@ English, Telugu (Native), Hindi
 
 ## 💼 Experience & Education
 
-- **Data Scientist @ Johns Manville**
-- **MS in Data Science** — University of Colorado Boulder
-- **Ex - Tata Consultancy Services (TCS)**
+- **Data Scientist @ Johns Manville**  
+  13 May 2024 - Present (1 Year 4 Months)
+
+- **AI Solution Developer Capstone Project @ ASANTe**  
+  01 January 2025 - 10 May 2025 (5 Months)
+
+- **Data Analyst/Systems Engineer @ Tata Consultancy Services**  
+  01 July 2021 - 30 June 2023 (2 Years)
+
+- **Master of Science in Data Science | University of Colorado Boulder**  
+  August 2023 - May 2025
+
+- **Bachelor of Technology in Information and Communication Technology | SASTRA Deemed University**  
+  July 2017 - July 2021
 
 ---
 
