@@ -35,7 +35,7 @@ English, Telugu (Native), Hindi
 - **AI Data Scientist @ Johns Manville**  
   13 May 2024 - Present
 
-- **AI Solution Developer Capstone Project @ ASANTe**  
+- **AI Engineer Capstone Project @ ASANTe**  
   01 January 2025 - 10 May 2025 (5 Months)
 
 - **Data Analyst/Systems Engineer @ Tata Consultancy Services**  
