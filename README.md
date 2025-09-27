@@ -1,6 +1,6 @@
 # Sai Yeshwanth Mekala
 
-**AI Data Scientist**  
+**Data Scientist and AI Enthusiast**  
 _Experienced in Python, R, Statistics, Machine Learning, Neural Networks, AI Engineering and Data Visualization_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sai-yeshwanth-mekala/)
@@ -30,17 +30,18 @@ English, Telugu (Native), Hindi
 
 ---
 
-## 💼 Experience & Education
+## 💼 Experience
 
-- **AI Data Scientist @ Johns Manville**  
+- **Data Scientist @ Johns Manville**  
   13 May 2024 - Present
 
 - **AI Engineer Capstone Project @ ASANTe**  
   01 January 2025 - 10 May 2025 (5 Months)
 
-- **Data Analyst/Systems Engineer @ Tata Consultancy Services**  
+- **Systems Engineer @ Tata Consultancy Services**  
   01 July 2021 - 30 June 2023 (2 Years)
 
+## 📚 Education
 - **Master of Science in Data Science | University of Colorado Boulder**  
   August 2023 - May 2025
 
