@@ -33,13 +33,13 @@ English, Telugu (Native), Hindi
 ## 💼 Experience
 
 - **Data Scientist @ Johns Manville**  
-  13 May 2024 - Present
+  May 2024 - December 2025 (1 Year 8 Months)
 
 - **AI Engineer Capstone Project @ ASANTe**  
-  01 January 2025 - 10 May 2025 (5 Months)
+  January 2025 - May 2025 (5 Months)
 
 - **Systems Engineer @ Tata Consultancy Services**  
-  01 July 2021 - 30 June 2023 (2 Years)
+  July 2021 - June 2023 (2 Years)
 
 ## 📚 Education
 - **Master of Science in Data Science | University of Colorado Boulder**  
