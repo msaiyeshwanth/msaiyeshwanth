@@ -1,6 +1,6 @@
 # Sai Yeshwanth Mekala
 
-**Data Scientist and AI Enthusiast**  
+** Data and Applied Scientist and AI Enthusiast**  
 _Experienced in Python, R, Statistics, Machine Learning, Neural Networks, AI Engineering and Data Visualization_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sai-yeshwanth-mekala/)
@@ -32,6 +32,9 @@ English, Telugu (Native), Hindi
 
 ## 💼 Experience
 
+- **Applied Scientist 2 @ Microsoft**  
+  May 2026 - Present
+  
 - **Data Scientist @ Johns Manville**  
   May 2024 - December 2025 (1 Year 8 Months)
 
