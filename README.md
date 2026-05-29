@@ -1,6 +1,6 @@
 # Sai Yeshwanth Mekala
 
-** Data and Applied Scientist and AI Enthusiast**  
+** Data and Applied Scientist**  
 _Experienced in Python, R, Statistics, Machine Learning, Neural Networks, AI Engineering and Data Visualization_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sai-yeshwanth-mekala/)
